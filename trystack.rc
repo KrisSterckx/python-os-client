@@ -1,0 +1,4 @@
+export OS_USERNAME=facebook1413311587
+export OS_PASSWORD=TwOK3iuYjKD9wFRe
+export OS_TENANT_NAME=facebook1413311587
+export OS_AUTH_URL=http://x86.trystack.org:5000/v2.0
